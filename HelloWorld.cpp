@@ -6,5 +6,4 @@ int main()
     std:: cout << "We are Team5" << std:: endl;
     return 0;
 }
-conflict nè fix đi
-abcxyzd
+
