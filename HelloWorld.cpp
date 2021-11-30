@@ -6,4 +6,7 @@ int main()
     std:: cout << "We are Team5" << std:: endl;
     return 0;
 }
+int main()
+    cin>>a>>b;
+cout<<c+b;
 
